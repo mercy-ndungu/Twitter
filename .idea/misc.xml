@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/student/AndroidStudioProjects/Twitterapplication/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Twitterapplication/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.15" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Twitterapplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/student/AndroidStudioProjects/Twitterapplication/app/src/main/res/layout/tweet_list_items.xml" value="0.25" />
       </map>
     </option>
